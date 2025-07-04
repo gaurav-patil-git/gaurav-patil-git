@@ -6,7 +6,6 @@ Here are a few examples of my work:
 
 - Optimized pricing strategy for environmental services, leading to an **expected 21.4% revenue growth in FY 2025-26**.
 - **Reduced capital investment by 4.8%** for residential development through **cross-functional collaboration** and **comparative analysis**.
-- Enabled 30% EV parking with solar integration, **reducing overall energy consumption by 7.1%** for residential development.
 
 ## SKILLS:
 
