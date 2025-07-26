@@ -9,8 +9,7 @@ Here are a few examples of my work:
 
 ## SKILLS:
 
-- **Technical Skills**: Python, SQL, Machine Learning, Feature Engineering
-- **Model Deployment**: MLflow, FastAPI, AWS SageMaker, Streamlit
+- **Technical Skills**: Python, SQL, Machine Learning, Feature Engineering, Streamlit
 - **Databases & BI Tools**: MySQL, Power BI, Tableau, MS Excel
 - **AI Tools**: Prompt Engineering, ChatGPT, Perplexity AI, Gemini 
 
