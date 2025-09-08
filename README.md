@@ -14,9 +14,12 @@ Here are a few examples of my work:
 - **AI Tools**: Prompt Engineering, ChatGPT, Perplexity AI, Gemini 
 
 ## PROJECTS:
-
+### BFSI & NBFC
 1. [_Default Risk Prediction Model_](https://github.com/gaurav-patil-git/02_Credit_Risk_Prediction_Model)
 2. [_Insurance Premium Predictive Model_](https://github.com/gaurav-patil-git/01_Insurance_Premium_Prediction_Model)
+
+### Linkedin Projects:
+1. [_Trend Analysis_](https://github.com/gaurav-patil-git/03_Trend_Analysis)
 
 I am always seeking opportunities to leverage my skills to deliver actionable insights that optimize project outcomes.
 
