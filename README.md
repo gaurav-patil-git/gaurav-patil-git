@@ -19,7 +19,7 @@ Here are a few examples of my work:
 2. [_Insurance Premium Predictive Model_](https://github.com/gaurav-patil-git/01_Insurance_Premium_Prediction_Model)
 
 ### Linkedin Projects:
-1. [_Trend Analysis_](https://github.com/gaurav-patil-git/03_Trend_Analysis)
+1. [_Visualization v Storytelling_](https://github.com/gaurav-patil-git/03_Trend_Analysis)
 
 I am always seeking opportunities to leverage my skills to deliver actionable insights that optimize project outcomes.
 
