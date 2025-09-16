@@ -20,6 +20,7 @@ Here are a few examples of my work:
 
 ### Linkedin Projects:
 1. [_Visualization v Storytelling_](https://github.com/gaurav-patil-git/03_Trend_Analysis)
+2. [_AI for Data preprocessing_](https://github.com/gaurav-patil-git/04_AI_Preprocessing)
 
 I am always seeking opportunities to leverage my skills to deliver actionable insights that optimize project outcomes.
 
