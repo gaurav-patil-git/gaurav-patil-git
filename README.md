@@ -16,13 +16,13 @@ Here are a few examples of my work:
 ## PROJECTS:
 ### BFSI & NBFC
 1. [_Default Risk Prediction Model_](https://github.com/gaurav-patil-git/02_Credit_Risk_Prediction_Model)
-2. [_Fraud Claim_Prediction Model_](https://github.com/gaurav-patil-git/06_Fraud_Claim_Prediction_Model)
+2. [_Fraud Claim Prediction Model_](https://github.com/gaurav-patil-git/06_Fraud_Claim_Prediction_Model)
 3. [_Insurance Premium Predictive Model_](https://github.com/gaurav-patil-git/01_Insurance_Premium_Prediction_Model)
 
 ### Linkedin Projects:
 1. [_Visualization v Storytelling_](https://github.com/gaurav-patil-git/03_Trend_Analysis)
 2. [_AI for Data preprocessing_](https://github.com/gaurav-patil-git/04_AI_Preprocessing)
-3. [_AI_for_Dashboard_Mockup_](https://github.com/gaurav-patil-git/05_Dashboard_Mockup)
+3. [_AI for Dashboard Mockup_](https://github.com/gaurav-patil-git/05_Dashboard_Mockup)
 
 I am always seeking opportunities to leverage my skills to deliver actionable insights that optimize project outcomes.
 
