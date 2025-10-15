@@ -24,7 +24,7 @@ Here are a few examples of my work:
 2. [_AI for Dashboard Mockup_](https://github.com/gaurav-patil-git/05_Dashboard_Mockup)
 3. [_AI Agents for Business Communication_](https://github.com/gaurav-patil-git/07_Business_Communication_Agents)
 
-## Professional Skills:
+### Professional Skills:
 1. [_Visualization v Storytelling_](https://github.com/gaurav-patil-git/03_Trend_Analysis)
 
 I am always seeking opportunities to leverage my skills to deliver actionable insights that optimize project outcomes.
