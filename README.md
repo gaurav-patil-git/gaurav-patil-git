@@ -11,7 +11,7 @@ Here are a few examples of my work:
 
 - **Technical Skills**: Python, SQL, Machine Learning, Feature Engineering, Streamlit
 - **Databases & BI Tools**: MySQL, Power BI, Tableau, MS Excel
-- **AI Tools**: Prompt Engineering, ChatGPT, Perplexity AI, Gemini 
+- **AI Tools**: Prompt Engineering, CrewAI, ChatGPT, Perplexity AI, Gemini, Gamma AI
 
 ## PROJECTS:
 ### BFSI & NBFC
@@ -20,9 +20,10 @@ Here are a few examples of my work:
 3. [_Insurance Premium Predictive Model_](https://github.com/gaurav-patil-git/01_Insurance_Premium_Prediction_Model)
 
 ### AI Projects:
-1. [_AI for Data preprocessing_](https://github.com/gaurav-patil-git/04_AI_Preprocessing)
-2. [_AI for Dashboard Mockup_](https://github.com/gaurav-patil-git/05_Dashboard_Mockup)
-3. [_AI Agents for Business Communication_](https://github.com/gaurav-patil-git/07_Business_Communication_Agents)
+1. [_SQL Query AI Agent_](https://github.com/gaurav-patil-git/08_SQL_AI_Agent/blob/main/README.md)
+2. [_AI Agents for Business Communication_](https://github.com/gaurav-patil-git/07_Business_Communication_Agents)
+3. [_AI for Data preprocessing_](https://github.com/gaurav-patil-git/04_AI_Preprocessing)
+4. [_AI for Dashboard Mockup_](https://github.com/gaurav-patil-git/05_Dashboard_Mockup)
 
 ### Professional Skills:
 1. [_Visualization v Storytelling_](https://github.com/gaurav-patil-git/03_Trend_Analysis)
