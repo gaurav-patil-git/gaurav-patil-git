@@ -1,17 +1,26 @@
 ## Hi there 👋
 
-I'm a **Jr. Data Analyst** with 2+ years of experience in delivering actionable insights. I help companies drive data-backed decisions through **machine learning, data analytics and storytelling**.
+Hey there! I am an **AI-powered Data Analyst** with **3+ years** of experience in helping organizations grow by leveraging **Data/Business Analytics**, **Machine Learning** and **AI** while streamlining workflows through **automation** to boost productivity.
 
-Here are a few examples of my work:
+### Key Skills & Expertise:
+- Data/Business Analytics - for better decision-making and smarter planning.
+- Workflow development and AI Automation - for operational efficiency and process optimization.
+- Business Intelligence Tools - for real-time and actionable insights for adaptive strategies.
 
-- Optimized pricing strategy for environmental services, leading to an **expected 21.4% revenue growth in FY 2025-26**.
-- **Reduced capital investment by 4.8%** for residential development through **cross-functional collaboration** and **comparative analysis**.
+### Results and Impacts:
+- 4.8% capital saving achieved through AI-assisted data analysis for infrastructure project designing.
+- 68% reduction in turnaround time via AI automated document generation.
+- 52% faster reporting cycle with real-time Power BI dashboard and streamlined workflow.
 
-## SKILLS:
+### Tech Stack:
+- Technical Skills: Python, SQL, Machine Learning, Feature Engineering, Streamlit
+- Databases & BI Tools: MySQL, Power BI, Tableau, MS Excel
+- AI Tools: Prompt Engineering, CrewAI, ChatGPT, Perplexity AI, Gemini, Gamma AI
 
-- **Technical Skills**: Python, SQL, Machine Learning, Feature Engineering, Streamlit
-- **Databases & BI Tools**: MySQL, Power BI, Tableau, MS Excel
-- **AI Tools**: Prompt Engineering, CrewAI, ChatGPT, Perplexity AI, Gemini, Gamma AI
+Outside work, I’m always experimenting with new AI tools and frameworks to push what’s possible in data and automation. I am always seeking opportunities to leverage my skills to deliver actionable insights that optimize project outcomes. 
+
+📩Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gaurav-patil-in/) and exchange ideas!
+
 
 ## PROJECTS:
 ### BFSI & NBFC
@@ -28,7 +37,5 @@ Here are a few examples of my work:
 ### Professional Skills:
 1. [_Visualization v Storytelling_](https://github.com/gaurav-patil-git/03_Trend_Analysis)
 
-I am always seeking opportunities to leverage my skills to deliver actionable insights that optimize project outcomes.
-
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gaurav-patil-in/) and exchange ideas!
+Thank you for visiting!
 
