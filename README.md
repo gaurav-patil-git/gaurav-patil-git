@@ -23,6 +23,10 @@ Outside work, I’m always experimenting with new AI tools and frameworks to pus
 
 
 ## PROJECTS:
+
+### E-Commerce / D2C
+1. [_Crisis Management_](https://github.com/gaurav-patil-git/10_Crisis_Management)
+
 ### BFSI & NBFC
 1. [_Default Risk Prediction Model_](https://github.com/gaurav-patil-git/02_Credit_Risk_Prediction_Model)
 2. [_Fraud Claim Prediction Model_](https://github.com/gaurav-patil-git/06_Fraud_Claim_Prediction_Model)
